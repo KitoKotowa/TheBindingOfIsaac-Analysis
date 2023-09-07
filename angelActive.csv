@@ -1,0 +1,13 @@
+Name,ID,Weight,Description
+The Bible,5.100.33,1,"On use, Isaac gains flight for the current room. Instantly kills  Mom,  Mom's Heart, and  It Lives when activated, but kills Isaac when used on  Satan."
+Breath of Life,5.100.326,1,"Grants a brief moment of invincibility when the charge bar hits zero. Isaac begins taking damage if the item is held any longer.  Isaac creates beams of light when touching enemies while invulnerable, and creates a powerful 4-way beam if blocking damage exactly as the invincibility starts."
+Dead Sea Scrolls,5.100.124,1,Triggers the effect of a random activated item from a list of possible options (not every activated item is included).
+Prayer Card,5.100.146,1,Gives an   Eternal Heart per use.
+Eden's Soul,5.100.490,1,Spawns two item pedestals then is consumed. Begins with no charges.
+Void,5.100.477,0.5,"Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades."
+Delirious,5.100.510,0.4,Spawns   Delirium as a random friendly boss that fights for Isaac.
+Book of Revelations,5.100.78,1,"Increases the chance of a  Devil Room /  Angel Room appearing while held. On use, gives one   Soul Heart, and replaces the boss of the current floor with a Harbinger if possible."
+Genesis,5.100.622,1,"Removes all of Isaac's items and pickups and takes him to a unique Bedroom with some pickups and  Chests and a trapdoor to the next floor. For every item Isaac lost, he gets to take an item from a set of three."
+Jar of Wisps,5.100.685,1,"Spawns random wisps that shoot various tears, block shots, and deal contact damage. The number of wisps spawned increases every time the jar is used."
+Urn of Souls,5.100.640,1,"Spews a stream of damaging flame. Gains Soul Charges each time an enemy dies, which are used to fuel the urn."
+Vade Retro,5.100.653,1,"While held, enemies leave behind ghosts on death. Using the item causes the ghosts to explode, dealing damage to nearby enemies. Stronger enemies leave bigger ghosts. Ghost enemies and bosses are also destroyed if this is used while they have less than half HP."
