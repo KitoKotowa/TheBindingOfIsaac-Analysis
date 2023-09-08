@@ -1,0 +1,66 @@
+Name,ID,Weight,Description
+The Belt,5.100.28,1,Increases speed by 0.3.
+Blood Clot,5.100.254,1,"Tears fired from the left eye have +1 flat damage, +5 range, and +0.5 tear falling speed.Tears fired from the left eye have +1 flat damage and +2.75 range."
+Blue Cap,5.100.342,1,"Gives one full Red Heart container, +0.7 tears, and -0.16 shot speed.  Heals 1 additional   Red Heart."
+Box,5.100.198,1,"Spawns various pickups: 1   coin, 1   Key, 1   Bomb, 1   Heart, 1 card/rune, 1 pill and 1 trinket."
+Breakfast,5.100.25,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
+Caffeine Pill,5.100.340,1,"Grants +0.3 speed, reduces character size, and gives a random pill."
+Cat-O-Nine-Tails,5.100.165,1,"+1 damage, +0.23 shot speed."
+Dessert,5.100.24,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
+Dinner,5.100.23,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
+Experimental Treatment,5.100.240,1,Randomly increases and decreases some of Isaac's stats. Increases four random stats and decreases the other two.
+Growth Hormones,5.100.70,1,"+1 damage, +0.4 speed. +1 damage, +0.2 speed."
+Jesus Juice,5.100.197,1,"+0.5 damage, +0.25 range, +0.5 tear falling speed. +0.5 damage, +1.5 range."
+Latch Key,5.100.343,1,Grants 1   Soul Heart and +1 luck. Spawns 2   Keys.
+Lunch,5.100.22,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
+MEAT!,5.100.193,1,"Grants one full Red Heart container, +0.3 damage.  Heals 1 additional   Red Heart"
+Magic 8 Ball,5.100.194,1,"+0.16 shot speed, spawns a random tarot card.  Increases the chance of finding a  Planetarium."
+Magic Scab,5.100.253,1,"Grants one full Red Heart container, +1 luck.  Heals 1 additional   Red Heart."
+Match Book,5.100.344,1,"Grants Isaac one   Black Heart, spawns two or three   Bombs."
+Mom's Coin Purse,5.100.195,1,Spawns 4 random pills near Isaac.
+Mom's Heels,5.100.30,1,"+5.25 range, +0.5 tear falling speed. +2.5 range, enemies that touch Isaac take 12 damage."
+Mom's Lipstick,5.100.31,1,"+5.25 range, +0.5 tear falling speed. +3.75 range. Spawns a   Heart on pickup."
+Mom's Underwear,5.100.29,1,"+5.25 range, +0.5 tear falling speed. +2.5 range. Spawns 3-6 Blue Flies on pickup."
+Old Bandage,5.100.219,1,Grants an empty Red Heart container. Adds a chance of dropping a   Red Heart after taking damage.
+Pageant Boy,5.100.141,1,Spawns seven random coins around Isaac.
+Pentagram,5.100.51,1,"+1 damage, increases  Devil Room /  Angel Room chance by 10%."
+Placenta,5.100.218,1,"Grants one full Red Heart container, and a chance to regenerate a   Half Red Heart of health every minute of gameplay."
+Roid Rage,5.100.14,1,"+0.6 speed, +5.25 range, +0.5 tear falling speed. +0.3 speed, +2.5 range"
+Rotten Meat,5.100.26,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
+Safety Pin,5.100.339,1,"Grants one   Black Heart, +5.25 range, +0.5 tear falling speed, +0.16 shot speed. Grants one   Black Heart, +2.5 range, +0.16 shot speed."
+Screw,5.100.255,1,"+0.5 tears, +0.2 shot speed."
+A Snack,5.100.346,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
+Speed Ball,5.100.143,1,"+0.3 speed, +0.2 shot speed."
+Squeezy,5.100.196,1,"Increases tears by 0.4, spawns 2   Soul Hearts."
+Stem Cells,5.100.176,1,Grants one full Red Heart container and +0.16 shot speed.  Heals 1 additional   Red Heart
+Synthoil,5.100.345,1,"+1 damage, +5.25 range, +0.5 tear falling speed. +1 damage, +2.5 range."
+Tooth Picks,5.100.183,1,"+0.7 tears, +0.16 shot speed."
+Torn Photo,5.100.341,1,"+0.7 tears, +0.16 shot speed."
+Wire Coat Hanger,5.100.32,1,Increases tears by 0.7.
+Wooden Spoon,5.100.27,1,Increases speed by 0.3.
+Super Bandage,5.100.92,10.5,Grants one full Red Heart container and 2   Soul Hearts.
+<3,5.100.15,1,Grants Isaac one Red Heart container and fully restores Isaac's health.
+The Halo,5.100.101,1,"Grants one full Red Heart container, +0.3 damage, +0.2 tears, +0.25 range, +0.3 speed, and +0.5 tear falling speed. Grants one full Red Heart container, +0.3 damage, +0.2 tears, +1.5 range, and +0.3 speed. Heals 1 additional   Red Heart."
+Little Steven,5.100.100,1,Spawns a familiar who follows Isaac around and fires homing tears.
+Magic Mushroom,5.100.12,1,"Makes Isaac bigger. Adds one Red Heart Container, +0.3 Damage, x1.5 damage multiplier, +5.25 Range, and +0.3 Speed, and restores all Health. Makes Isaac bigger. Adds one Red Heart Container, +0.3 Damage, x1.5 damage multiplier, +2.5 Range, and +0.3 Speed, and restores all Health."
+Binky,5.100.438,1,"Grants one   Soul Heart, +0.75 tears and decreases Isaac's size."
+Crack Jacks,5.100.354,1,Grants one full Red Heart container and drops a random trinket.
+Mom's Pearls,5.100.355,1,"+1.25 range, +0.5 tear falling speed, +1 luck. +2.5 range, +1 luck. Grants one   Soul Heart."
+Mr. Dolly,5.100.370,1,"+0.7 tears, +5.25 range, +0.5 tear falling speed, Spawns a combination of 3   Red Hearts,   Soul Hearts or   Black Hearts on the floor when picked up. +0.7 tears, +2.5 range, spawns 3 random types of   Hearts on the floor when picked up."
+PJs,5.100.428,10.5,Grants 4   Soul Hearts and fully restores Isaac's health.
+Dad's Lost Coin,5.100.455,1,"+1.5 range, +1 tear falling speed. Drops a Lucky Penny.+2.5 range. Drops a Lucky Penny."
+Divorce Papers,5.100.547,1,"Grants one   Bone Heart, +0.7 tears, spawns a  Mysterious Paper."
+Marbles,5.100.538,1,"Spawns 3 random trinkets. Taking damage has a 5% chance to swallow Isaac's currently held trinket, gaining its effect permanently."
+Marrow,5.100.541,1,Grants one   Bone Heart and spawns three   Red Hearts.
+Midnight Snack,5.100.456,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
+Belly Button,5.100.458,1,Drops a random trinket. Grants a second trinket slot.
+Polydactyly,5.100.454,1,"Allows Isaac to carry two cards, pills, or any combination of both. Spawns one random card, rune, or pill."
+A Bar of Soap,5.100.564,1,Gives Isaac +0.5 Tears and +0.2 Shot Speed.
+Booster Pack,5.100.624,1,Drops 5 random cards.
+Consolation Prize,5.100.644,1,"Increases Isaac's lowest stat and drops either 3   Coins, 1   Bomb, or 1   Key depending on what Isaac has the least of."
+Eye Drops,5.100.600,1,"Increases the fire rate in Isaac's left eye, causing his eyes to fire at different rates."
+Glass Eye,5.100.730,1,"+0.75 damage, +1 luck."
+Stapler,5.100.708,1,"+1 Damage. Prevents Isaac from firing tears from his left eye, like   Cain."
+Stye,5.100.731,1,"Tears fired from Isaac's right eye have +28% Damage, +6.5 Range, and -0.3 Shot Speed."
+Supper,5.100.707,1,Grants one full Red Heart container. Heals 1 additional   Red Heart.
+Tropicamide,5.100.659,1,"+2.5 Range, Increases tear size."
