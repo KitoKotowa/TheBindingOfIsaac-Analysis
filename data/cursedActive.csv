@@ -1,9 +1,9 @@
-Name,ID,Weight,Description
-Guppy's Head,5.100.145,1,Spawns 2-4 friendly Blue Flies that damage enemies.
-Guppy's Paw,5.100.133,1,"Upon use, converts one Red Heart Container into three   Soul Hearts."
-Sacrificial Altar,5.100.536,1,Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins.
-Plan C,5.100.475,0.2,"Kills all enemies in the room, then kills Isaac three seconds later."
-Flip,5.100.711,1,"Item pedestals have a second uninteractable ""ghostly"" item behind them. Activating will flip the real and ghostly items around. If playing as   Tainted Lazarus, also flips between them and   Dead Tainted Lazarus."
-Magic Skin,5.100.642,1,"Consumes one heart container or two   Soul Hearts to spawn an item and give Isaac a broken heart container that can never be filled. If Magic Skin isn't being held after being used, it is very likely to replace any future items."
-Razor Blade,5.100.126,1,Takes one   Heart of health and grants +1.2 damage for the current room.  Repeated uses in the same room only take half a heart.
-Red Key,5.100.580,1,"Creates a  Red Room adjacent to a viable wall, indicated by the outline of a door. These rooms have a 10% chance to be a special room."
+Name,ID,Weight,Description,Quote,Quality
+Guppy's Head,5.100.145,1.0,Spawns 2-4 friendly Blue Flies that damage enemies.,Reusable fly hive,2
+Guppy's Paw,5.100.133,1.0,"Upon use, converts one Red Heart Container into three   Soul Hearts.",Soul converter,3
+Sacrificial Altar,5.100.536,1.0,Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins.,He demands a sacrifice,2
+Plan C,5.100.475,0.2,"Kills all enemies in the room, then kills Isaac three seconds later.",My last resort,0
+Flip,5.100.711,1.0,"Item pedestals have a second uninteractable ""ghostly"" item behind them. Activating will flip the real and ghostly items around. If playing as   Tainted Lazarus, also flips between them and   Dead Tainted Lazarus.",Twist of fate,4
+Magic Skin,5.100.642,1.0,"Consumes one heart container or two   Soul Hearts to spawn an item and give Isaac a broken heart container that can never be filled. If Magic Skin isn't being held after being used, it is very likely to replace any future items.",All your desires fulfilled,2
+Razor Blade,5.100.126,1.0,Takes one   Heart of health and grants +1.2 damage for the current room.  Repeated uses in the same room only take half a heart.,Feel my pain,0
+Red Key,5.100.580,1.0,"Creates a  Red Room adjacent to a viable wall, indicated by the outline of a door. These rooms have a 10% chance to be a special room.",Explore the other side,3

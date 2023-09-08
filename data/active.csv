@@ -26,8 +26,7 @@ Flush!,5.100.291,...,Turns all non-boss monsters in the room into   Poop. Instan
 Forget Me Now,5.100.127,I don't remember...,"On use, re-generates the current floor with a new layout. Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor.",3
 Guppy's Head,5.100.145,Reusable fly hive,Spawns 2-4 friendly Blue Flies that damage enemies.,2
 Guppy's Paw,5.100.133,Soul converter,"Upon use, converts one Red Heart Container into three   Soul Hearts.",3
-Head of Krampus,5.100.293,Krampus rage,"Fires a powerful  Brimstone beam in four cardinal directions, much like   Krampus shoots.
- Fires a powerful  Brimstone beam in four cardinal directions, much like   Krampus shoots with a 50% chance to rotate all beams around Isaac 90 degrees.",2
+Head of Krampus,5.100.293,Krampus rage,"Fires a powerful  Brimstone beam in four cardinal directions, much like  Krampus shoots with a 50% chance to rotate all beams around Isaac 90 degrees.",2
 How to Jump,5.100.282,It's time you learned how,"Upon use, Isaac jumps in the direction he is currently moving, allowing travel over obstacles and enemies.",1
 Isaac's Tears,5.100.323,Collected tears,"Fires 8 tears around Isaac, which retain the damage, range, shot speed, and special tear effects of his tears. Each tear shot by Isaac increases item charge by one.  Tears from this item have a +5 flat damage bonus.",1
 IV Bag,5.100.135,Portable blood bank,"Upon use, Isaac loses half a heart of health (or a full heart in Chapter 4 onward) for a random amount of coins, similar to a  Blood Donation Machine.",1
@@ -42,7 +41,7 @@ Monstro's Tooth,5.100.86,Summon Monstro,"A friendly   Monstro jumps on a random 
 Mr. Boom,5.100.37,Reusable bomb buddy,Places a  Mr. Mega  Bomb that deals 110 damage. Places a  Mr. Mega  Bomb that deals 185 damage.,1
 My Little Unicorn,5.100.77,Temporary badass,"Gives invulnerability and +0.28 speed for six seconds, removing the ability to shoot tears and replacing it with the ability to deal contact damage to enemies.",1
 Notched Axe,5.100.147,Rocks don't stand a chance,"Isaac destroys obstacles and opens  Secret Rooms by walking into them, but cannot shoot or pick up items until it's cancelled. Toggles between tears and the pickaxe, which can be swung to attack and break obstacles. Using it depletes the charge, and it can't be used until next floor once the charge runs out.",1
-Pandora's Box,5.100.297,? ?,"Upon use, spawns specific pickups or items depending on the floor it is used on. Disappears after use.",2
+Pandora's Box,5.100.297,? ?,"Upon use, spawns specific pickups or items depending on the floor it is used on. Disappears after use.",2
 Portable Slot,5.100.177,Gamble 24/7,"Upon use, consumes 1   Penny and has a chance to drop a random pickup, like a  Slot Machine.",0
 Prayer Card,5.100.146,Reusable eternity,Gives an   Eternal Heart per use.,3
 Razor Blade,5.100.126,Feel my pain,Takes one   Heart of health and grants +1.2 damage for the current room.  Repeated uses in the same room only take half a heart.,0
@@ -146,7 +145,7 @@ Friend Finder,5.100.687,Best friends forever!,Spawns a random friendly monster t
 Gello,5.100.728,Demonic gestation,"Spawns a demon familiar that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage, tears, range, shot speed, and special tear effects.",3
 Genesis,5.100.622,In the beginning,"Removes all of Isaac's items and pickups and takes him to a unique Bedroom with some pickups and  Chests and a trapdoor to the next floor. For every item Isaac lost, he gets to take an item from a set of three.",3
 Golden Razor,5.100.555,Pain from gain,Spends five   Pennies to increase Isaac's damage by 1.2 for the current room.,1
-Hold,5.100.715,Saved for later,"Exclusive to   Tainted ???. Allows him to save one poop bomb for later, allowing him to gather more over time.",0
+Hold,5.100.715,Saved for later,"Exclusive to   Tainted????. Allows him to save one poop bomb for later, allowing him to gather more over time.",0
 Jar of Wisps,5.100.685,Your faith grows,"Spawns random wisps that shoot various tears, block shots, and deal contact damage. The number of wisps spawned increases every time the jar is used.",2
 Keeper's Box,5.100.719,Portable shop,Spawns a random shop item or pickup which can be bought for its normal price.,2
 Larynx,5.100.611,Hear my pain,"Isaac shouts, damaging and pushing away nearby enemies. The shout gets stronger the more charges the item has. Can also be charged by taking damage.",2

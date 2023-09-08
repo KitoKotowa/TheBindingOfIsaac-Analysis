@@ -1,2 +1,2 @@
-Name,ID,Weight,Description
-Book of Virtues,5.100.584,0.2,"On use, spawns a destroyable orbiting wisp familiar that fires tears and deals contact damage. Also acts as a passive item that causes other active items to spawn themed wisps."
+Name,ID,Weight,Description,Quote,Quality
+Book of Virtues,5.100.584,0.2,"On use, spawns a destroyable orbiting wisp familiar that fires tears and deals contact damage. Also acts as a passive item that causes other active items to spawn themed wisps.",Spiritual companionship,3

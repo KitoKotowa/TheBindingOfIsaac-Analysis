@@ -1,25 +1,25 @@
-Name,ID,Weight,Price,Description
-The Book of Belial,5.100.34,1,,+2 damage for the current room. Passively guarantees a  Devil Room or  Angel Room will appear while held. +2 damage for the current room. Passively increases the chance of finding a  Devil Room or  Angel Room while held.
-The Book of Sin,5.100.97,1,,"Generates a random pickup, pill, card, or rune."
-Guppy's Head,5.100.145,1,,Spawns 2-4 friendly Blue Flies that damage enemies.
-Guppy's Paw,5.100.133,1,,"Upon use, converts one Red Heart Container into three   Soul Hearts."
-The Nail,5.100.83,1,,"Gives one   Soul Heart. For the current room; +0.7 damage, -0.18 speed, Isaac breaks rocks and deals contact damage. Gives half a   Black Heart. For the current room; +2 damage, -0.18 speed, Isaac breaks rocks and deals contact damage."
-The Necronomicon,5.100.35,1,,Deals 40 damage to every enemy in the room.
-Satanic Bible,5.100.292,1,,Gives one   Black Heart.  Replaces the boss room item on the current floor with a Devil Deal.
-We Need to Go Deeper!,5.100.84,1,,"Creates a trapdoor to go to the next floor.  Once per floor, using it on tiles with special graphics will instead create a  Crawl Space."
-Razor Blade,5.100.126,1,,Takes one   Heart of health and grants +1.2 damage for the current room.  Repeated uses in the same room only take half a heart.
-Mega Blast,5.100.441,0.2,,"Upon use, Isaac fires a laser similar to the one used by   Mega Satan. This laser deals massive damage, lasts for approximately 15 seconds, and persists between rooms. Isaac is pushed backwards by the force of the laser while it is active."
-Book of the Dead,5.100.545,1,,"Creates a friendly  Bony,   Black Bony, or an orbital bone for each enemy killed in the current room.Creates a friendly  Bony,   Black Bony,   Bone Fly,   Revenant or an orbital bone for each enemy killed in the current room."
-Sacrificial Altar,5.100.536,1,,Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins.
-Void,5.100.477,0.5,,"Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades."
-Plan C,5.100.475,0.2,,"Kills all enemies in the room, then kills Isaac three seconds later."
-Blood Rights,5.100.186,1,,"Upon use, takes a full heart of health and deals 40 damage to all enemies in the room.  Repeated uses in the same room only take half a heart."
-Damocles,5.100.577,1,,"Spawns a sword above Isaac's head, which doubles all item pedestals. After Isaac takes damage, the sword can randomly fall at any point, instantly killing him."
-Gello,5.100.728,1,,"Spawns a demon familiar that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage, tears, range, shot speed, and special tear effects."
-Monster Manual,5.100.123,1,,Spawns a familiar from a specific selection for the current room. Spawns a familiar from a specific selection for the current floor.
-Sulfur,5.100.556,1,,Grants  Brimstone for the current room.
-Abyss,5.100.706,0.5,,Destroys all items in the room and gives Isaac a unique locust familiar for each item destroyed. Some items generate locusts with special effects.
-Berserk!,5.100.704,0.5,,"Causes Isaac to go berserk for 5 seconds, greatly increasing his speed, tears, and damage, but restricting him to using a melee weapon instead of his tears. This item charges by dealing damage to enemies instead of clearing rooms."
-Dark Arts,5.100.705,0.5,,"Briefly grants +1 speed and makes Isaac invulnerable and intangible. When the effect ends, destroys all projectiles and damages all enemies Isaac ran through."
-Lemegeton,5.100.712,0.5,,"Spawns a wisp representing a random passive item, which orbits Isaac but can be destroyed. While the wisp is alive, Isaac gains that item's effects. Generation uses the current room's item pool 25% of the time, otherwise a random pool."
-Forget Me Now,5.100.127,0.2,,"On use, re-generates the current floor with a new layout. Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor."
+Name,ID,Weight,Price,Description,Quote,Quality
+The Book of Belial,5.100.34,1.0,,+2 damage for the current room. Passively guarantees a  Devil Room or  Angel Room will appear while held. +2 damage for the current room. Passively increases the chance of finding a  Devil Room or  Angel Room while held.,Temporary DMG up,2
+The Book of Sin,5.100.97,1.0,,"Generates a random pickup, pill, card, or rune.",Reusable item generator,2
+Guppy's Head,5.100.145,1.0,,Spawns 2-4 friendly Blue Flies that damage enemies.,Reusable fly hive,2
+Guppy's Paw,5.100.133,1.0,,"Upon use, converts one Red Heart Container into three   Soul Hearts.",Soul converter,3
+The Nail,5.100.83,1.0,,"Gives one   Soul Heart. For the current room; +0.7 damage, -0.18 speed, Isaac breaks rocks and deals contact damage. Gives half a   Black Heart. For the current room; +2 damage, -0.18 speed, Isaac breaks rocks and deals contact damage.",Temporary demon form,2
+The Necronomicon,5.100.35,1.0,,Deals 40 damage to every enemy in the room.,Mass room damage,1
+Satanic Bible,5.100.292,1.0,,Gives one   Black Heart.  Replaces the boss room item on the current floor with a Devil Deal.,Reusable evil... but at what cost?,4
+We Need to Go Deeper!,5.100.84,1.0,,"Creates a trapdoor to go to the next floor.  Once per floor, using it on tiles with special graphics will instead create a  Crawl Space.",Reusable level skip,2
+Razor Blade,5.100.126,1.0,,Takes one   Heart of health and grants +1.2 damage for the current room.  Repeated uses in the same room only take half a heart.,Feel my pain,0
+Mega Blast,5.100.441,0.2,,"Upon use, Isaac fires a laser similar to the one used by   Mega Satan. This laser deals massive damage, lasts for approximately 15 seconds, and persists between rooms. Isaac is pushed backwards by the force of the laser while it is active.",Laser breath,4
+Book of the Dead,5.100.545,1.0,,"Creates a friendly  Bony,   Black Bony, or an orbital bone for each enemy killed in the current room.Creates a friendly  Bony,   Black Bony,   Bone Fly,   Revenant or an orbital bone for each enemy killed in the current room.",Rise from the grave,3
+Sacrificial Altar,5.100.536,1.0,,Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins.,He demands a sacrifice,2
+Void,5.100.477,0.5,,"Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades.",Consume,4
+Plan C,5.100.475,0.2,,"Kills all enemies in the room, then kills Isaac three seconds later.",My last resort,0
+Blood Rights,5.100.186,1.0,,"Upon use, takes a full heart of health and deals 40 damage to all enemies in the room.  Repeated uses in the same room only take half a heart.",Mass enemy damage at a cost,0
+Damocles,5.100.577,1.0,,"Spawns a sword above Isaac's head, which doubles all item pedestals. After Isaac takes damage, the sword can randomly fall at any point, instantly killing him.",A king's fortune... but at what cost?,2
+Gello,5.100.728,1.0,,"Spawns a demon familiar that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage, tears, range, shot speed, and special tear effects.",Demonic gestation,3
+Monster Manual,5.100.123,1.0,,Spawns a familiar from a specific selection for the current room. Spawns a familiar from a specific selection for the current floor.,Temporary buddy generator,1
+Sulfur,5.100.556,1.0,,Grants  Brimstone for the current room.,Temporary demon form,3
+Abyss,5.100.706,0.5,,Destroys all items in the room and gives Isaac a unique locust familiar for each item destroyed. Some items generate locusts with special effects.,Come forth from the depths,4
+Berserk!,5.100.704,0.5,,"Causes Isaac to go berserk for 5 seconds, greatly increasing his speed, tears, and damage, but restricting him to using a melee weapon instead of his tears. This item charges by dealing damage to enemies instead of clearing rooms.",Rip and tear,2
+Dark Arts,5.100.705,0.5,,"Briefly grants +1 speed and makes Isaac invulnerable and intangible. When the effect ends, destroys all projectiles and damages all enemies Isaac ran through.",One with the shadows,2
+Lemegeton,5.100.712,0.5,,"Spawns a wisp representing a random passive item, which orbits Isaac but can be destroyed. While the wisp is alive, Isaac gains that item's effects. Generation uses the current room's item pool 25% of the time, otherwise a random pool.",Item summoner,3
+Forget Me Now,5.100.127,0.2,,"On use, re-generates the current floor with a new layout. Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor.",I don't remember...,3

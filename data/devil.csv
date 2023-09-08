@@ -1,95 +1,95 @@
-Name,ID,Weight,Price,Description
-The Book of Belial,5.100.34,1,,+2 damage for the current room. Passively guarantees a  Devil Room or  Angel Room will appear while held. +2 damage for the current room. Passively increases the chance of finding a  Devil Room or  Angel Room while held.
-The Book of Sin,5.100.97,1,,"Generates a random pickup, pill, card, or rune."
-Guppy's Head,5.100.145,1,,Spawns 2-4 friendly Blue Flies that damage enemies.
-Guppy's Paw,5.100.133,1,,"Upon use, converts one Red Heart Container into three   Soul Hearts."
-The Nail,5.100.83,1,,"Gives one   Soul Heart. For the current room; +0.7 damage, -0.18 speed, Isaac breaks rocks and deals contact damage. Gives half a   Black Heart. For the current room; +2 damage, -0.18 speed, Isaac breaks rocks and deals contact damage."
-The Necronomicon,5.100.35,1,,Deals 40 damage to every enemy in the room.
-Satanic Bible,5.100.292,1,,Gives one   Black Heart.  Replaces the boss room item on the current floor with a Devil Deal.
-We Need to Go Deeper!,5.100.84,1,,"Creates a trapdoor to go to the next floor.  Once per floor, using it on tiles with special graphics will instead create a  Crawl Space."
-Razor Blade,5.100.126,1,,Takes one   Heart of health and grants +1.2 damage for the current room.  Repeated uses in the same room only take half a heart.
-Mega Blast,5.100.441,0.2,,"Upon use, Isaac fires a laser similar to the one used by   Mega Satan. This laser deals massive damage, lasts for approximately 15 seconds, and persists between rooms. Isaac is pushed backwards by the force of the laser while it is active."
-Book of the Dead,5.100.545,1,,"Creates a friendly  Bony,   Black Bony, or an orbital bone for each enemy killed in the current room.Creates a friendly  Bony,   Black Bony,   Bone Fly,   Revenant or an orbital bone for each enemy killed in the current room."
-Sacrificial Altar,5.100.536,1,,Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins.
-Void,5.100.477,0.5,,"Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades."
-Plan C,5.100.475,0.2,,"Kills all enemies in the room, then kills Isaac three seconds later."
-Blood Rights,5.100.186,1,,"Upon use, takes a full heart of health and deals 40 damage to all enemies in the room.  Repeated uses in the same room only take half a heart."
-Damocles,5.100.577,1,,"Spawns a sword above Isaac's head, which doubles all item pedestals. After Isaac takes damage, the sword can randomly fall at any point, instantly killing him."
-Gello,5.100.728,1,,"Spawns a demon familiar that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage, tears, range, shot speed, and special tear effects."
-Monster Manual,5.100.123,1,,Spawns a familiar from a specific selection for the current room. Spawns a familiar from a specific selection for the current floor.
-Sulfur,5.100.556,1,,Grants  Brimstone for the current room.
-Abyss,5.100.706,0.5,,Destroys all items in the room and gives Isaac a unique locust familiar for each item destroyed. Some items generate locusts with special effects.
-Berserk!,5.100.704,0.5,,"Causes Isaac to go berserk for 5 seconds, greatly increasing his speed, tears, and damage, but restricting him to using a melee weapon instead of his tears. This item charges by dealing damage to enemies instead of clearing rooms."
-Dark Arts,5.100.705,0.5,,"Briefly grants +1 speed and makes Isaac invulnerable and intangible. When the effect ends, destroys all projectiles and damages all enemies Isaac ran through."
-Lemegeton,5.100.712,0.5,,"Spawns a wisp representing a random passive item, which orbits Isaac but can be destroyed. While the wisp is alive, Isaac gains that item's effects. Generation uses the current room's item pool 25% of the time, otherwise a random pool."
-Forget Me Now,5.100.127,0.2,,"On use, re-generates the current floor with a new layout. Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor."
-Abaddon,5.100.230,1,,"+1.5 damage, +0.2 speed. Removes all Red Heart containers, grants six  Black Hearts, and adds a chance to shoot fear tears. +1.5 damage, +0.2 speed. Grants two  Black Hearts, converts all Red Heart Containers into Black Hearts, and adds a chance to shoot fear tears."
-Bloody Lust,5.100.157,1,,"Increases Isaac's damage whenever he takes damage, up to six times. The bonus resets when entering a new floor."
-Brimstone,5.100.118,1,,Tears are replaced by a laser beam that pierces through all enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period.
-Brother Bobby,5.100.8,1,,Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage.  He shoots more frequently than most familiars.
-Ceremonial Robes,5.100.216,1,,"Grants 3   Black Hearts, and +1 damage."
-Contract From Below,5.100.241,1,,"Doubles the number of most room clear awards, but reduces the overall chance of getting one by 1/3."
-Dark Bum,5.100.278,1,,"Spawns a familiar that follows Isaac around and collects   Red Hearts. For every 1½ Red Hearts collected, Dark Bum will give a reward."
-Dark Matter,5.100.259,1,,"+1 damage, adds a chance to shoot fear tears."
-Dead Cat,5.100.81,1,,"Sets Isaac's Red Heart Containers to 1, but grants 9 extra lives. After dying, Isaac respawns with 1 Red Heart Container."
-Death's Touch,5.100.237,1,,"+1.5 damage, -0.3 tears. Tears are replaced with large piercing scythes."
-Demon Baby,5.100.113,1,,Spawns a familiar that follows Isaac and automatically fires at enemies in its reach.
-Ghost Baby,5.100.163,1,,Spawns a familiar that follows Isaac around and fires spectral tears.
-Gimpy,5.100.225,1,,Gives chance of spawning a   Soul Heart when taking damage. Enemies have a chance to drop a   Half Red Heart after being killed.
-Goat Head,5.100.215,1,,"A  Devil Room /  Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4."
-Guppy's Collar,5.100.212,1,,Grants a permanent 50% chance to respawn with 1/2 of a   Red Heart after death.
-Guppy's Hair Ball,5.100.187,1,,"Spawns a familiar that loosely follows behind Isaac, which blocks shots can be swung like a flail to damage enemies. Grows bigger by killing enemies."
-Guppy's Tail,5.100.134,1,,Room Clear Awards have a 1/3 chance of being replaced with a   Chest and a 2/9 chance being replaced with nothing.
-Headless Baby,5.100.269,1,,"Spawns a familiar that follows Isaac, leaving blood creep on the ground."
-Judas' Shadow,5.100.311,1,,"Upon death, respawns Isaac as   Dark Judas with two   Black Hearts in the previous room."
-Lil Brimstone,5.100.275,1,,Grants a familiar that charges a thin  Brimstone laser while Isaac is shooting.
-Lord of the Pit,5.100.82,1,,Grants flight and +0.3 speed.
-The Mark,5.100.79,1,,"Grants one   Soul Heart, +1 damage, and +0.2 speed. Grants one   Black Heart, +1 damage, and +0.2 speed."
-Missing Page 2,5.100.262,1,,"Grants one   Black Heart. Upon taking damage that reduces Isaac's health to one heart or less, deals damage to all enemies in the room.  Increases the damage of   Black Hearts and  The Necronomicon-like effects by 40."
-Mom's Knife,5.100.114,1,,"Isaac's tears are replaced by a knife that pierces enemies, can travel through obstacles, and can hurt enemies while Isaac is holding it. Holding down the fire button before firing increases its range and power."
-The Pact,5.100.80,1,,"Grants two   Soul Hearts, +0.5 damage, and +0.7 tears. Grants two   Black Hearts, +0.5 damage, and +0.7 tears."
-Pentagram,5.100.51,1,,"+1 damage, increases  Devil Room /  Angel Room chance by 10%."
-Rotten Baby,5.100.268,1,,Spawns a familiar that spawns a Blue Fly when Isaac shoots. It can only have one Fly at a time.
-Sacrificial Dagger,5.100.172,1,,"Spawns a dagger orbital familiar, blocking enemy shots and dealing a high amount of damage to enemies in contact."
-Sister Maggy,5.100.67,1,,Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage. Spawns a familiar that follows Isaac around shooting tears that deal 6 damage.
-Spirit of the Night,5.100.159,1,,Grants spectral tears and flight.
-Whore of Babylon,5.100.122,1,,Grants +1.5 Damage and +0.3 Speed whenever Isaac has a   Half Red Heart or less.
-Athame,5.100.408,1,,"When Isaac takes damage, a damaging black ring briefly appears around him. This ring can cause enemies to drop   Black Hearts. After Isaac kills an enemy, adds a luck-based chance to spawn a damaging black ring around them."
-Betrayal,5.100.391,1,,"Charms all enemies in the room when Isaac takes damage. Enemies are able to damage each other. If an enemy is damaged by another enemy, they will attack that enemy instead of Isaac."
-Black Powder,5.100.420,1,,"Isaac leaves a trail of black powder on the floor. Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it."
-Cambion Conception,5.100.412,1,,"After taking damage a certain amount of times, a permanent demonic familiar spawns."
-Empty Vessel,5.100.409,1,,"Grants two   Black Hearts. While Isaac has no red hearts, grants flight and periodically grants an invincibility shield for a few seconds."
-Incubus,5.100.360,1,,"Spawns a demonic familiar that shoots tears identical to Isaac's in terms of damage, tears, and tear effects."
-Maw of the Void,5.100.399,1,,"Charged by firing for 2.5 seconds and when released, creates a black ring around Isaac that rapidly deals damage.  +1 damage, the ring can cause enemies to drop  Black Hearts."
-Multidimensional Baby,5.100.431,1,,Spawns a familiar that will follow Isaac's movements on a 2.5-second delay. Tears that pass through the baby will be doubled and increase in speed.
-My Shadow,5.100.433,1,,Inflicts fear on all enemies in the room upon taking damage and spawns black friendly Chargers that attack enemies.Spawns a shadow familiar that closely follows behind Isaac. It spawns a black friendly Charger whenever an enemy touches it.
-Succubus,5.100.417,1,,"Spawns a flying familiar that bounces around the room with a black aura, dealing rapid damage to any enemies inside it. While standing in the aura, Isaac gains a 1.5x tear damage multiplier."
-7 Seals,5.100.526,1,,Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts.
-Dark Prince's Crown,5.100.442,1,,"When at exactly one   Red Heart, increases tears, range, tear falling speed, and shot speed. When at exactly one   Red Heart, increases fire rate, range, and shot speed."
-Death's List,5.100.530,1,,Grants a pickup or stat upgrade if all enemies in a room are killed in the order they are marked.
-Duality,5.100.498,1,,"Whenever a  Devil Room or  Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered."
-Eye of Belial,5.100.462,1,,"Grants piercing tears. After piercing one enemy, tears start homing and deal double damage."
-Lil Delirium,5.100.519,1,,Grants a familiar that transforms into another random familiar every 10 seconds.
-Shade,5.100.468,1,,"Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly  Chargers."
-2Spooky,5.100.554,1,,Enemies near Isaac are afflicted with fear.
-Azazel's Rage,5.100.699,1,,"Isaac builds rage every time a room is cleared. After four rooms, fires a large Brimstone laser when entering the next room."
-Backstabber,5.100.506,1,,Isaac's tears deal double damage and inflict bleeding on enemies if they're facing away from Isaac.
-Blood Oath,5.100.569,1,,"Stabs Isaac at the beginning of each floor, draining his   Red Hearts. Increases damage and speed for the floor based on the amount drained."
-Bloody Gust,5.100.695,1,,"The first 6 times Isaac takes damage on a given floor, he gains Speed and Fire Rate for the rest of the floor, up to a maximum of +1.02 and +3.00, respectively."
-Brimstone Bombs,5.100.646,1,,+5   Bombs. Bombs fire four  Brimstone lasers in the cardinal directions upon exploding.
-Eye of the Occult,5.100.572,1,,"+1 damage, +2 range, -0.16 shot speed. Isaac's tears can be controlled mid-flight with tear controls."
-False PHD,5.100.654,1,,Converts good pills into bad pills and identifies all pills. Bad pills now have secondary positive effects. Grants one   Black Heart.
-Guppy's Eye,5.100.665,1,,"Shows the contents of   Chests,   Fire Places,   Grab Bags, and   Shopkeepers before they're opened/destroyed."
-Hungry Soul,5.100.684,1,,"Enemies have a chance to spawn ghosts on death, which chase and deal contact damage to enemies and explode after a short time."
-Lil Abaddon,5.100.679,1,,Spawns a familiar that charges a miniature  Maw of the Void attack while Isaac shoots.
-Little Horn,5.100.503,1,,"Adds a chance to fire a piercing tear that instantly kills any enemy that it touches. Adds a chance to fire a tear that summons Big Horn's hand to crush the first enemy it hits, instantly killing monsters or greatly damaging bosses."
-Lusty Blood,5.100.411,1,,Isaac's damage increases for the current room each time he kills an enemy.
-Ocular Rift,5.100.606,1,,"Gives Isaac the chance to fire tears that create rifts where they land, which damage nearby enemies and pull in enemies, pickups, and tears/shots from all sources."
-Ouija Board,5.100.115,1,,Grants spectral tears that travel through obstacles (but not enemies).  +0.5 tears.
-A Pound of Flesh,5.100.672,1,,"Devil deals now cost   Coins,  Shop items now cost health, and consumables in shops are free but surrounded by spikes."
-Purgatory,5.100.634,1,,"While in a room with enemies, spawns cracks on the ground. Walking over these cracks summons ghosts that launch themselves at enemies and explode."
-A Quarter,5.100.74,1,,Gives Isaac 25   coins.
-Sanguine Bond,5.100.692,1,,Spawns a special set of spikes in the  Devil Room. Taking damage from the spikes has a chance to grant a reward.
-Twisted Pair,5.100.698,1,,"Spawns two familiars that float on either side of Isaac and fire tears that use his tears, range, shot speed, and tear effects, and scale with damage."
-Vengeful Spirit,5.100.702,1,,"After taking damage, spawns an orbital wisp that lasts for the entire floor, up to a maximum of six. They fire tears but do not block shots."
-Heartbreak,5.100.694,0.5,,Grants 3 broken hearts and +0.25 damage for every broken heart Isaac has. Every otherwise fatal hit will add 2 more until Isaac has nothing but broken hearts.
+Name,ID,Weight,Price,Description,Quote,Quality
+The Book of Belial,5.100.34,1,,+2 damage for the current room. Passively guarantees a  Devil Room or  Angel Room will appear while held. +2 damage for the current room. Passively increases the chance of finding a  Devil Room or  Angel Room while held.,Temporary DMG up,2
+The Book of Sin,5.100.97,1,,"Generates a random pickup, pill, card, or rune.",Reusable item generator,2
+Guppy's Head,5.100.145,1,,Spawns 2-4 friendly Blue Flies that damage enemies.,Reusable fly hive,2
+Guppy's Paw,5.100.133,1,,"Upon use, converts one Red Heart Container into three   Soul Hearts.",Soul converter,3
+The Nail,5.100.83,1,,"Gives one   Soul Heart. For the current room; +0.7 damage, -0.18 speed, Isaac breaks rocks and deals contact damage. Gives half a   Black Heart. For the current room; +2 damage, -0.18 speed, Isaac breaks rocks and deals contact damage.",Temporary demon form,2
+The Necronomicon,5.100.35,1,,Deals 40 damage to every enemy in the room.,Mass room damage,1
+Satanic Bible,5.100.292,1,,Gives one   Black Heart.  Replaces the boss room item on the current floor with a Devil Deal.,Reusable evil... but at what cost?,4
+We Need to Go Deeper!,5.100.84,1,,"Creates a trapdoor to go to the next floor.  Once per floor, using it on tiles with special graphics will instead create a  Crawl Space.",Reusable level skip,2
+Razor Blade,5.100.126,1,,Takes one   Heart of health and grants +1.2 damage for the current room.  Repeated uses in the same room only take half a heart.,Feel my pain,0
+Mega Blast,5.100.441,0.2,,"Upon use, Isaac fires a laser similar to the one used by   Mega Satan. This laser deals massive damage, lasts for approximately 15 seconds, and persists between rooms. Isaac is pushed backwards by the force of the laser while it is active.",Laser breath,4
+Book of the Dead,5.100.545,1,,"Creates a friendly  Bony,   Black Bony, or an orbital bone for each enemy killed in the current room.Creates a friendly  Bony,   Black Bony,   Bone Fly,   Revenant or an orbital bone for each enemy killed in the current room.",Rise from the grave,3
+Sacrificial Altar,5.100.536,1,,Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins.,He demands a sacrifice,2
+Void,5.100.477,0.5,,"Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades.",Consume,4
+Plan C,5.100.475,0.2,,"Kills all enemies in the room, then kills Isaac three seconds later.",My last resort,0
+Blood Rights,5.100.186,1,,"Upon use, takes a full heart of health and deals 40 damage to all enemies in the room.  Repeated uses in the same room only take half a heart.",Mass enemy damage at a cost,0
+Damocles,5.100.577,1,,"Spawns a sword above Isaac's head, which doubles all item pedestals. After Isaac takes damage, the sword can randomly fall at any point, instantly killing him.",A king's fortune... but at what cost?,2
+Gello,5.100.728,1,,"Spawns a demon familiar that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage, tears, range, shot speed, and special tear effects.",Demonic gestation,3
+Monster Manual,5.100.123,1,,Spawns a familiar from a specific selection for the current room. Spawns a familiar from a specific selection for the current floor.,Temporary buddy generator,1
+Sulfur,5.100.556,1,,Grants  Brimstone for the current room.,Temporary demon form,3
+Abyss,5.100.706,0.5,,Destroys all items in the room and gives Isaac a unique locust familiar for each item destroyed. Some items generate locusts with special effects.,Come forth from the depths,4
+Berserk!,5.100.704,0.5,,"Causes Isaac to go berserk for 5 seconds, greatly increasing his speed, tears, and damage, but restricting him to using a melee weapon instead of his tears. This item charges by dealing damage to enemies instead of clearing rooms.",Rip and tear,2
+Dark Arts,5.100.705,0.5,,"Briefly grants +1 speed and makes Isaac invulnerable and intangible. When the effect ends, destroys all projectiles and damages all enemies Isaac ran through.",One with the shadows,2
+Lemegeton,5.100.712,0.5,,"Spawns a wisp representing a random passive item, which orbits Isaac but can be destroyed. While the wisp is alive, Isaac gains that item's effects. Generation uses the current room's item pool 25% of the time, otherwise a random pool.",Item summoner,3
+Forget Me Now,5.100.127,0.2,,"On use, re-generates the current floor with a new layout. Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor.",I don't remember...,3
+Abaddon,5.100.230,1,,"+1.5 damage, +0.2 speed. Removes all Red Heart containers, grants six  Black Hearts, and adds a chance to shoot fear tears. +1.5 damage, +0.2 speed. Grants two  Black Hearts, converts all Red Heart Containers into Black Hearts, and adds a chance to shoot fear tears.",Evil + DMG up + fear shot,3
+Bloody Lust,5.100.157,1,,"Increases Isaac's damage whenever he takes damage, up to six times. The bonus resets when entering a new floor.",RAGE!,2
+Brimstone,5.100.118,1,,Tears are replaced by a laser beam that pierces through all enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period.,Blood laser barrage,4
+Brother Bobby,5.100.8,1,,Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage.  He shoots more frequently than most familiars.,Friends 'till the end,1
+Ceremonial Robes,5.100.216,1,,"Grants 3   Black Hearts, and +1 damage.",DMG + evil up,3
+Contract From Below,5.100.241,1,,"Doubles the number of most room clear awards, but reduces the overall chance of getting one by 1/3.",Wealth... but at what cost?,3
+Dark Bum,5.100.278,1,,"Spawns a familiar that follows Isaac around and collects   Red Hearts. For every 1? Red Hearts collected, Dark Bum will give a reward.",He wants to take your life,3
+Dark Matter,5.100.259,1,,"+1 damage, adds a chance to shoot fear tears.",DMG up + fear shot,3
+Dead Cat,5.100.81,1,,"Sets Isaac's Red Heart Containers to 1, but grants 9 extra lives. After dying, Isaac respawns with 1 Red Heart Container.",9 lives,3
+Death's Touch,5.100.237,1,,"+1.5 damage, -0.3 tears. Tears are replaced with large piercing scythes.",Piercing shots + DMG up,3
+Demon Baby,5.100.113,1,,Spawns a familiar that follows Isaac and automatically fires at enemies in its reach.,Auto-turret friend,2
+Ghost Baby,5.100.163,1,,Spawns a familiar that follows Isaac around and fires spectral tears.,Spectral buddy,1
+Gimpy,5.100.225,1,,Gives chance of spawning a   Soul Heart when taking damage. Enemies have a chance to drop a   Half Red Heart after being killed.,Sweet suffering,2
+Goat Head,5.100.215,1,,"A  Devil Room /  Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4.",He accepts your offering,3
+Guppy's Collar,5.100.212,1,,Grants a permanent 50% chance to respawn with 1/2 of a   Red Heart after death.,Eternal life?,1
+Guppy's Hair Ball,5.100.187,1,,"Spawns a familiar that loosely follows behind Isaac, which blocks shots can be swung like a flail to damage enemies. Grows bigger by killing enemies.",Swing it,1
+Guppy's Tail,5.100.134,1,,Room Clear Awards have a 1/3 chance of being replaced with a   Chest and a 2/9 chance being replaced with nothing.,Cursed?,2
+Headless Baby,5.100.269,1,,"Spawns a familiar that follows Isaac, leaving blood creep on the ground.",Bloody friend,1
+Judas' Shadow,5.100.311,1,,"Upon death, respawns Isaac as   Dark Judas with two   Black Hearts in the previous room.",Sweet revenge,3
+Lil Brimstone,5.100.275,1,,Grants a familiar that charges a thin  Brimstone laser while Isaac is shooting.,Evil friend,2
+Lord of the Pit,5.100.82,1,,Grants flight and +0.3 speed.,Demon wings,3
+The Mark,5.100.79,1,,"Grants one   Soul Heart, +1 damage, and +0.2 speed. Grants one   Black Heart, +1 damage, and +0.2 speed.",DMG + speed up,3
+Missing Page 2,5.100.262,1,,"Grants one   Black Heart. Upon taking damage that reduces Isaac's health to one heart or less, deals damage to all enemies in the room.  Increases the damage of   Black Hearts and  The Necronomicon-like effects by 40.",Evil up. Your enemies will pay!,0
+Mom's Knife,5.100.114,1,,"Isaac's tears are replaced by a knife that pierces enemies, can travel through obstacles, and can hurt enemies while Isaac is holding it. Holding down the fire button before firing increases its range and power.",Stab stab stab,4
+The Pact,5.100.80,1,,"Grants two   Soul Hearts, +0.5 damage, and +0.7 tears. Grants two   Black Hearts, +0.5 damage, and +0.7 tears.",DMG + tears up,3
+Pentagram,5.100.51,1,,"+1 damage, increases  Devil Room /  Angel Room chance by 10%.",DMG up,3
+Rotten Baby,5.100.268,1,,Spawns a familiar that spawns a Blue Fly when Isaac shoots. It can only have one Fly at a time.,Infested friend,3
+Sacrificial Dagger,5.100.172,1,,"Spawns a dagger orbital familiar, blocking enemy shots and dealing a high amount of damage to enemies in contact.",My fate protects me,2
+Sister Maggy,5.100.67,1,,Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage. Spawns a familiar that follows Isaac around shooting tears that deal 6 damage.,Friends 'till the end,1
+Spirit of the Night,5.100.159,1,,Grants spectral tears and flight.,Scary,3
+Whore of Babylon,5.100.122,1,,Grants +1.5 Damage and +0.3 Speed whenever Isaac has a   Half Red Heart or less.,Curse up,2
+Athame,5.100.408,1,,"When Isaac takes damage, a damaging black ring briefly appears around him. This ring can cause enemies to drop   Black Hearts. After Isaac kills an enemy, adds a luck-based chance to spawn a damaging black ring around them.",Call to the void,3
+Betrayal,5.100.391,1,,"Charms all enemies in the room when Isaac takes damage. Enemies are able to damage each other. If an enemy is damaged by another enemy, they will attack that enemy instead of Isaac.",Turn your enemy,1
+Black Powder,5.100.420,1,,"Isaac leaves a trail of black powder on the floor. Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it.",Spin the black circle!,1
+Cambion Conception,5.100.412,1,,"After taking damage a certain amount of times, a permanent demonic familiar spawns.",Feed them hate,2
+Empty Vessel,5.100.409,1,,"Grants two   Black Hearts. While Isaac has no red hearts, grants flight and periodically grants an invincibility shield for a few seconds.",I reward an empty vessel,2
+Incubus,5.100.360,1,,"Spawns a demonic familiar that shoots tears identical to Isaac's in terms of damage, tears, and tear effects.",Dark friend,4
+Maw of the Void,5.100.399,1,,"Charged by firing for 2.5 seconds and when released, creates a black ring around Isaac that rapidly deals damage.  +1 damage, the ring can cause enemies to drop  Black Hearts.",Consume thy enemy!,3
+Multidimensional Baby,5.100.431,1,,Spawns a familiar that will follow Isaac's movements on a 2.5-second delay. Tears that pass through the baby will be doubled and increase in speed.,ydduB Buddy,2
+My Shadow,5.100.433,1,,Inflicts fear on all enemies in the room upon taking damage and spawns black friendly Chargers that attack enemies.Spawns a shadow familiar that closely follows behind Isaac. It spawns a black friendly Charger whenever an enemy touches it.,Me! And my shaaaadow!,2
+Succubus,5.100.417,1,,"Spawns a flying familiar that bounces around the room with a black aura, dealing rapid damage to any enemies inside it. While standing in the aura, Isaac gains a 1.5x tear damage multiplier.",Damage booster,3
+7 Seals,5.100.526,1,,Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts.,Lil harbingers!,2
+Dark Prince's Crown,5.100.442,1,,"When at exactly one   Red Heart, increases tears, range, tear falling speed, and shot speed. When at exactly one   Red Heart, increases fire rate, range, and shot speed.",Loss is power,1
+Death's List,5.100.530,1,,Grants a pickup or stat upgrade if all enemies in a room are killed in the order they are marked.,Just hope you're not next...,2
+Duality,5.100.498,1,,"Whenever a  Devil Room or  Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered.",You feel very balanced,1
+Eye of Belial,5.100.462,1,,"Grants piercing tears. After piercing one enemy, tears start homing and deal double damage.",Possessed tears!,3
+Lil Delirium,5.100.519,1,,Grants a familiar that transforms into another random familiar every 10 seconds.,Delirious friend,2
+Shade,5.100.468,1,,"Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly  Chargers.",It follows,0
+2Spooky,5.100.554,1,,Enemies near Isaac are afflicted with fear.,4me,1
+Azazel's Rage,5.100.699,1,,"Isaac builds rage every time a room is cleared. After four rooms, fires a large Brimstone laser when entering the next room.",Ancient power,2
+Backstabber,5.100.506,1,,Isaac's tears deal double damage and inflict bleeding on enemies if they're facing away from Isaac.,Watch your back!,3
+Blood Oath,5.100.569,1,,"Stabs Isaac at the beginning of each floor, draining his   Red Hearts. Increases damage and speed for the floor based on the amount drained.",Bleed me dry,1
+Bloody Gust,5.100.695,1,,"The first 6 times Isaac takes damage on a given floor, he gains Speed and Fire Rate for the rest of the floor, up to a maximum of +1.02 and +3.00, respectively.",May your rage bring haste,2
+Brimstone Bombs,5.100.646,1,,+5   Bombs. Bombs fire four  Brimstone lasers in the cardinal directions upon exploding.,Demon blast +5 bombs,2
+Eye of the Occult,5.100.572,1,,"+1 damage, +2 range, -0.16 shot speed. Isaac's tears can be controlled mid-flight with tear controls.",DMG up + range up + controlled tears,3
+False PHD,5.100.654,1,,Converts good pills into bad pills and identifies all pills. Bad pills now have secondary positive effects. Grants one   Black Heart.,Worse pills + evil up,2
+Guppy's Eye,5.100.665,1,,"Shows the contents of   Chests,   Fire Places,   Grab Bags, and   Shopkeepers before they're opened/destroyed.",An eye for secrets,2
+Hungry Soul,5.100.684,1,,"Enemies have a chance to spawn ghosts on death, which chase and deal contact damage to enemies and explode after a short time.",Out for blood,2
+Lil Abaddon,5.100.679,1,,Spawns a familiar that charges a miniature  Maw of the Void attack while Isaac shoots.,Abyssal friend,2
+Little Horn,5.100.503,1,,"Adds a chance to fire a piercing tear that instantly kills any enemy that it touches. Adds a chance to fire a tear that summons Big Horn's hand to crush the first enemy it hits, instantly killing monsters or greatly damaging bosses.",Big brother is watching,3
+Lusty Blood,5.100.411,1,,Isaac's damage increases for the current room each time he kills an enemy.,Their blood brings rage!,3
+Ocular Rift,5.100.606,1,,"Gives Isaac the chance to fire tears that create rifts where they land, which damage nearby enemies and pull in enemies, pickups, and tears/shots from all sources.",Stare into the abyss,3
+Ouija Board,5.100.115,1,,Grants spectral tears that travel through obstacles (but not enemies).  +0.5 tears.,Spectral tears + tears up,2
+A Pound of Flesh,5.100.672,1,,"Devil deals now cost   Coins,  Shop items now cost health, and consumables in shops are free but surrounded by spikes.",Blood money,1
+Purgatory,5.100.634,1,,"While in a room with enemies, spawns cracks on the ground. Walking over these cracks summons ghosts that launch themselves at enemies and explode.",Help from beyond,2
+A Quarter,5.100.74,1,,Gives Isaac 25   coins.,+25 coins,0
+Sanguine Bond,5.100.692,1,,Spawns a special set of spikes in the  Devil Room. Taking damage from the spikes has a chance to grant a reward.,He awaits your offering,1
+Twisted Pair,5.100.698,1,,"Spawns two familiars that float on either side of Isaac and fire tears that use his tears, range, shot speed, and tear effects, and scale with damage.",Double trouble!,4
+Vengeful Spirit,5.100.702,1,,"After taking damage, spawns an orbital wisp that lasts for the entire floor, up to a maximum of six. They fire tears but do not block shots.",Hot blooded,1
+Heartbreak,5.100.694,0.5,,Grants 3 broken hearts and +0.25 damage for every broken heart Isaac has. Every otherwise fatal hit will add 2 more until Isaac has nothing but broken hearts.,Eternal sorrow,3

@@ -1,41 +1,41 @@
-Name,ID,Weight,Description
-Fate,5.100.179,10.5,Grants flight and one   Eternal Heart.
-Abel,5.100.188,1,Spawns a familiar that mirrors Isaac's movements and shoots in the opposite direction. Spawns a familiar that mirrors Isaac's movements and shoots towards him.
-Bob's Brain,5.100.273,1,"Spawns a familiar that charges forward when shooting tears and explodes upon contact with an enemy, damaging and poisoning them. The familiar respawns after a few seconds."
-Cricket's Head,5.100.4,1,"Increases Damage by 0.5, and increases damage multiplier by x1.5."
-Goat Head,5.100.215,1,"A  Devil Room /  Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4."
-Infamy,5.100.242,1,Gives Isaac a 50% chance to block projectiles coming from any direction.
-Fate's Reward,5.100.361,1,A blue head familiar that will follow Isaac and fire tears copying his tear effects and damage.
-Head of the Keeper,5.100.429,1,Isaac's tears become coins and now have a chance to drop Pennies on the floor upon successfully hitting an enemy.
-Steven,5.100.50,1,+1 damage.
-Blood Bag,5.100.119,1,"Grants one filled Red Heart container, restores 4   Red Hearts, and increases speed by 0.3."
-Bomb Bag,5.100.131,1,Spawns a familiar that drops a   Bomb every 3 rooms.
-Little Baggy,5.100.252,1,Isaac can hold 2 pills at once and all cards and runes are replaced by pills.
-Mystery Sack,5.100.271,1,"Spawns a familiar that drops a Heart, coin,   Bomb, or   Key every 5-6 rooms."
-Rune Bag,5.100.389,1,Spawns a familiar that drops a random rune after clearing enough rooms.
-Sack of Pennies,5.100.94,1,Spawns a familiar that drops a   coin every 2 rooms.
-Sack of Sacks,5.100.500,1,Spawns a familiar that drops a   Grab Bag every 5-6 rooms cleared.
-The Belt,5.100.28,1,Increases speed by 0.3.
-Binky,5.100.438,1,"Grants one   Soul Heart, +0.75 tears and decreases Isaac's size."
-Consolation Prize,5.100.644,1,"Increases Isaac's lowest stat and drops either 3   Coins, 1   Bomb, or 1   Key depending on what Isaac has the least of."
-Crack Jacks,5.100.354,1,Grants one full Red Heart container and drops a random trinket.
-Dad's Lost Coin,5.100.455,1,"+1.5 range, +1 tear falling speed. Drops a Lucky Penny.+2.5 range. Drops a Lucky Penny."
-Glass Eye,5.100.730,1,"+0.75 damage, +1 luck."
-Latch Key,5.100.343,1,Grants 1   Soul Heart and +1 luck. Spawns 2   Keys.
-Magic 8 Ball,5.100.194,1,"+0.16 shot speed, spawns a random tarot card.  Increases the chance of finding a  Planetarium."
-Match Book,5.100.344,1,"Grants Isaac one   Black Heart, spawns two or three   Bombs."
-Midnight Snack,5.100.456,1,Grants one full Red Heart container.  Heals 1 additional   Red Heart.
-Mom's Pearls,5.100.355,1,"+1.25 range, +0.5 tear falling speed, +1 luck. +2.5 range, +1 luck. Grants one   Soul Heart."
-Mom's Ring,5.100.732,1,+1 Damage. Drops a random Rune or Soul Stone upon pickup.
-Mom's Underwear,5.100.29,1,"+5.25 range, +0.5 tear falling speed. +2.5 range. Spawns 3-6 Blue Flies on pickup."
-Mr. Dolly,5.100.370,1,"+0.7 tears, +5.25 range, +0.5 tear falling speed, Spawns a combination of 3   Red Hearts,   Soul Hearts or   Black Hearts on the floor when picked up. +0.7 tears, +2.5 range, spawns 3 random types of   Hearts on the floor when picked up."
-A Quarter,5.100.74,1,Gives Isaac 25   coins.
-Screw,5.100.255,1,"+0.5 tears, +0.2 shot speed."
-Squeezy,5.100.196,1,"Increases tears by 0.4, spawns 2   Soul Hearts."
-Stapler,5.100.708,1,"+1 Damage. Prevents Isaac from firing tears from his left eye, like   Cain."
-Torn Photo,5.100.341,1,"+0.7 tears, +0.16 shot speed."
-Wire Coat Hanger,5.100.32,1,Increases tears by 0.7.
-PJs,5.100.428,0.5,Grants 4   Soul Hearts and fully restores Isaac's health.
-Schoolbag,5.100.534,0.5,Allows Isaac to hold two active items.
-Lead Pencil,5.100.444,0.1,"After every 15 tears fired, Isaac will fire a high-damage cluster of tears."
-Orphan Socks,5.100.571,0.1,Prevents creep and floor spikes from damaging Isaac. Also gives Isaac +0.3 speed and 2   Soul Hearts.
+Name,ID,Weight,Description,Quote,Quality
+Fate,5.100.179,0.5,Grants flight and one   Eternal Heart.,Flight eternal,3
+Abel,5.100.188,1.0,Spawns a familiar that mirrors Isaac's movements and shoots in the opposite direction. Spawns a familiar that mirrors Isaac's movements and shoots towards him.,Mirrored buddy,0
+Bob's Brain,5.100.273,1.0,"Spawns a familiar that charges forward when shooting tears and explodes upon contact with an enemy, damaging and poisoning them. The familiar respawns after a few seconds.",Explosive thoughts,1
+Cricket's Head,5.100.4,1.0,"Increases Damage by 0.5, and increases damage multiplier by x1.5.",DMG up,4
+Goat Head,5.100.215,1.0,"A  Devil Room /  Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4.",He accepts your offering,3
+Infamy,5.100.242,1.0,Gives Isaac a 50% chance to block projectiles coming from any direction.,Blocks damage... sometimes,2
+Fate's Reward,5.100.361,1.0,A blue head familiar that will follow Isaac and fire tears copying his tear effects and damage.,Your fate beside you,2
+Head of the Keeper,5.100.429,1.0,Isaac's tears become coins and now have a chance to drop Pennies on the floor upon successfully hitting an enemy.,Penny tears!,2
+Steven,5.100.50,1.0,+1 damage.,DMG up,3
+Blood Bag,5.100.119,1.0,"Grants one filled Red Heart container, restores 4   Red Hearts, and increases speed by 0.3.",HP up,2
+Bomb Bag,5.100.131,1.0,Spawns a familiar that drops a   Bomb every 3 rooms.,Gives bombs,2
+Little Baggy,5.100.252,1.0,Isaac can hold 2 pills at once and all cards and runes are replaced by pills.,Extra pill room,0
+Mystery Sack,5.100.271,1.0,"Spawns a familiar that drops a Heart, coin,   Bomb, or   Key every 5-6 rooms.",?,2
+Rune Bag,5.100.389,1.0,Spawns a familiar that drops a random rune after clearing enough rooms.,Rune generator,3
+Sack of Pennies,5.100.94,1.0,Spawns a familiar that drops a   coin every 2 rooms.,Gives money,1
+Sack of Sacks,5.100.500,1.0,Spawns a familiar that drops a   Grab Bag every 5-6 rooms cleared.,Gives sacks,3
+The Belt,5.100.28,1.0,Increases speed by 0.3.,Speed up,1
+Binky,5.100.438,1.0,"Grants one   Soul Heart, +0.75 tears and decreases Isaac's size.",Tears up,3
+Consolation Prize,5.100.644,1.0,"Increases Isaac's lowest stat and drops either 3   Coins, 1   Bomb, or 1   Key depending on what Isaac has the least of.",+1 to lowest stat,1
+Crack Jacks,5.100.354,1.0,Grants one full Red Heart container and drops a random trinket.,HP up. Don't swallow the prize!,2
+Dad's Lost Coin,5.100.455,1.0,"+1.5 range, +1 tear falling speed. Drops a Lucky Penny.+2.5 range. Drops a Lucky Penny.",I remember this...,1
+Glass Eye,5.100.730,1.0,"+0.75 damage, +1 luck.",DMG + luck up,3
+Latch Key,5.100.343,1.0,Grants 1   Soul Heart and +1 luck. Spawns 2   Keys.,Luck up,1
+Magic 8 Ball,5.100.194,1.0,"+0.16 shot speed, spawns a random tarot card.  Increases the chance of finding a  Planetarium.",Shot speed up,1
+Match Book,5.100.344,1.0,"Grants Isaac one   Black Heart, spawns two or three   Bombs.",Evil up,1
+Midnight Snack,5.100.456,1.0,Grants one full Red Heart container.  Heals 1 additional   Red Heart.,HP up,1
+Mom's Pearls,5.100.355,1.0,"+1.25 range, +0.5 tear falling speed, +1 luck. +2.5 range, +1 luck. Grants one   Soul Heart.",Range + luck up,2
+Mom's Ring,5.100.732,1.0,+1 Damage. Drops a random Rune or Soul Stone upon pickup.,DMG up,3
+Mom's Underwear,5.100.29,1.0,"+5.25 range, +0.5 tear falling speed. +2.5 range. Spawns 3-6 Blue Flies on pickup.",Range up,1
+Mr. Dolly,5.100.370,1.0,"+0.7 tears, +5.25 range, +0.5 tear falling speed, Spawns a combination of 3   Red Hearts,   Soul Hearts or   Black Hearts on the floor when picked up. +0.7 tears, +2.5 range, spawns 3 random types of   Hearts on the floor when picked up.",Range + tears up,3
+A Quarter,5.100.74,1.0,Gives Isaac 25   coins.,+25 coins,0
+Screw,5.100.255,1.0,"+0.5 tears, +0.2 shot speed.",Tears + shot speed up,3
+Squeezy,5.100.196,1.0,"Increases tears by 0.4, spawns 2   Soul Hearts.",Tears up,3
+Stapler,5.100.708,1.0,"+1 Damage. Prevents Isaac from firing tears from his left eye, like   Cain.",DMG up,3
+Torn Photo,5.100.341,1.0,"+0.7 tears, +0.16 shot speed.",Tears + shot speed up,3
+Wire Coat Hanger,5.100.32,1.0,Increases tears by 0.7.,Tears up,3
+PJs,5.100.428,0.5,Grants 4   Soul Hearts and fully restores Isaac's health.,You feel cozy,2
+Schoolbag,5.100.534,0.5,Allows Isaac to hold two active items.,Extra active item room,3
+Lead Pencil,5.100.444,0.1,"After every 15 tears fired, Isaac will fire a high-damage cluster of tears.",He's a bleeder!,3
+Orphan Socks,5.100.571,0.1,Prevents creep and floor spikes from damaging Isaac. Also gives Isaac +0.3 speed and 2   Soul Hearts.,Speed up + your feet feel stronger,2

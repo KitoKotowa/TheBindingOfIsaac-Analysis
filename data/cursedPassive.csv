@@ -1,28 +1,28 @@
-Name,ID,Weight,Description
-Black Candle,5.100.260,1,Prevents curses. Grants one   Black Heart. Increases the chance for a  Devil Room or  Angel Room to appear.
-Ceremonial Robes,5.100.216,1,"Grants 3   Black Hearts, and +1 damage."
-Contract From Below,5.100.241,1,"Doubles the number of most room clear awards, but reduces the overall chance of getting one by 1/3."
-Dead Cat,5.100.81,1,"Sets Isaac's Red Heart Containers to 1, but grants 9 extra lives. After dying, Isaac respawns with 1 Red Heart Container."
-Gimpy,5.100.225,1,Gives chance of spawning a   Soul Heart when taking damage. Enemies have a chance to drop a   Half Red Heart after being killed.
-Goat Head,5.100.215,1,"A  Devil Room /  Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4."
-Guppy's Collar,5.100.212,1,Grants a permanent 50% chance to respawn with 1/2 of a   Red Heart after death.
-Guppy's Tail,5.100.134,1,Room Clear Awards have a 1/3 chance of being replaced with a   Chest and a 2/9 chance being replaced with nothing.
-The Mark,5.100.79,1,"Grants one   Soul Heart, +1 damage, and +0.2 speed. Grants one   Black Heart, +1 damage, and +0.2 speed."
-The Pact,5.100.80,1,"Grants two   Soul Hearts, +0.5 damage, and +0.7 tears. Grants two   Black Hearts, +0.5 damage, and +0.7 tears."
-Pentagram,5.100.51,1,"+1 damage, increases  Devil Room /  Angel Room chance by 10%."
-Athame,5.100.408,1,"When Isaac takes damage, a damaging black ring briefly appears around him. This ring can cause enemies to drop   Black Hearts. After Isaac kills an enemy, adds a luck-based chance to spawn a damaging black ring around them."
-Curse of the Tower,5.100.371,1,"Upon taking damage, spawns six   Troll Bombs around the room, similar to the effect of  XVI - The Tower."
-Dark Prince's Crown,5.100.442,1,"When at exactly one   Red Heart, increases tears, range, tear falling speed, and shot speed. When at exactly one   Red Heart, increases fire rate, range, and shot speed."
-Euthanasia,5.100.496,1,"Adds a chance to fire needles that instantly kill basic enemies and deal triple damage to bosses. If a needle kills an enemy, it bursts into more tears/needles."
-Little Horn,5.100.503,1,"Adds a chance to fire a piercing tear that instantly kills any enemy that it touches. Adds a chance to fire a tear that summons Big Horn's hand to crush the first enemy it hits, instantly killing monsters or greatly damaging bosses."
-Shade,5.100.468,1,"Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly  Chargers."
-Tarot Cloth,5.100.451,1,Drops a random card or rune.  Doubles the effects of most cards and runes.  Doubles the effects of tarot cards.
-Mom's Razor,5.100.508,1,"Spawns an orbiting razor that deals contact damage and inflicts bleeding on enemies, causing them to slowly take damage over time."
-Blood Oath,5.100.569,1,"Stabs Isaac at the beginning of each floor, draining his   Red Hearts. Increases damage and speed for the floor based on the amount drained."
-Blood Puppy,5.100.565,1,"Spawns a familiar that chases enemies. After killing enough enemies, it becomes more powerful but will also try to hurt Isaac. Attacking it returns it to normal."
-Guppy's Eye,5.100.665,1,"Shows the contents of   Chests,   Fire Places,   Grab Bags, and   Shopkeepers before they're opened/destroyed."
-Sanguine Bond,5.100.692,1,Spawns a special set of spikes in the  Devil Room. Taking damage from the spikes has a chance to grant a reward.
-Vengeful Spirit,5.100.702,1,"After taking damage, spawns an orbital wisp that lasts for the entire floor, up to a maximum of six. They fire tears but do not block shots."
-False PHD,5.100.654,0.5,Converts good pills into bad pills and identifies all pills. Bad pills now have secondary positive effects. Grants one   Black Heart.
-Heartbreak,5.100.694,0.5,Grants 3 broken hearts and +0.25 damage for every broken heart Isaac has. Every otherwise fatal hit will add 2 more until Isaac has nothing but broken hearts.
-Vanishing Twin,5.100.697,0.5,Spawns a familiar that becomes a clone of the floor's boss when entering the  Boss Room. Defeating it drops an extra item.
+Name,ID,Weight,Description,Quote,Quality
+Black Candle,5.100.260,1.0,Prevents curses. Grants one   Black Heart. Increases the chance for a  Devil Room or  Angel Room to appear.,Curse immunity + evil up,3
+Ceremonial Robes,5.100.216,1.0,"Grants 3   Black Hearts, and +1 damage.",DMG + evil up,3
+Contract From Below,5.100.241,1.0,"Doubles the number of most room clear awards, but reduces the overall chance of getting one by 1/3.",Wealth... but at what cost?,3
+Dead Cat,5.100.81,1.0,"Sets Isaac's Red Heart Containers to 1, but grants 9 extra lives. After dying, Isaac respawns with 1 Red Heart Container.",9 lives,3
+Gimpy,5.100.225,1.0,Gives chance of spawning a   Soul Heart when taking damage. Enemies have a chance to drop a   Half Red Heart after being killed.,Sweet suffering,2
+Goat Head,5.100.215,1.0,"A  Devil Room /  Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4.",He accepts your offering,3
+Guppy's Collar,5.100.212,1.0,Grants a permanent 50% chance to respawn with 1/2 of a   Red Heart after death.,Eternal life?,1
+Guppy's Tail,5.100.134,1.0,Room Clear Awards have a 1/3 chance of being replaced with a   Chest and a 2/9 chance being replaced with nothing.,Cursed?,2
+The Mark,5.100.79,1.0,"Grants one   Soul Heart, +1 damage, and +0.2 speed. Grants one   Black Heart, +1 damage, and +0.2 speed.",DMG + speed up,3
+The Pact,5.100.80,1.0,"Grants two   Soul Hearts, +0.5 damage, and +0.7 tears. Grants two   Black Hearts, +0.5 damage, and +0.7 tears.",DMG + tears up,3
+Pentagram,5.100.51,1.0,"+1 damage, increases  Devil Room /  Angel Room chance by 10%.",DMG up,3
+Athame,5.100.408,1.0,"When Isaac takes damage, a damaging black ring briefly appears around him. This ring can cause enemies to drop   Black Hearts. After Isaac kills an enemy, adds a luck-based chance to spawn a damaging black ring around them.",Call to the void,3
+Curse of the Tower,5.100.371,1.0,"Upon taking damage, spawns six   Troll Bombs around the room, similar to the effect of  XVI - The Tower.",Embrace chaos,0
+Dark Prince's Crown,5.100.442,1.0,"When at exactly one   Red Heart, increases tears, range, tear falling speed, and shot speed. When at exactly one   Red Heart, increases fire rate, range, and shot speed.",Loss is power,1
+Euthanasia,5.100.496,1.0,"Adds a chance to fire needles that instantly kill basic enemies and deal triple damage to bosses. If a needle kills an enemy, it bursts into more tears/needles.",Needle shot,3
+Little Horn,5.100.503,1.0,"Adds a chance to fire a piercing tear that instantly kills any enemy that it touches. Adds a chance to fire a tear that summons Big Horn's hand to crush the first enemy it hits, instantly killing monsters or greatly damaging bosses.",Big brother is watching,3
+Shade,5.100.468,1.0,"Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly  Chargers.",It follows,0
+Tarot Cloth,5.100.451,1.0,Drops a random card or rune.  Doubles the effects of most cards and runes.  Doubles the effects of tarot cards.,I see the future,2
+Mom's Razor,5.100.508,1.0,"Spawns an orbiting razor that deals contact damage and inflicts bleeding on enemies, causing them to slowly take damage over time.",It's sharp!,2
+Blood Oath,5.100.569,1.0,"Stabs Isaac at the beginning of each floor, draining his   Red Hearts. Increases damage and speed for the floor based on the amount drained.",Bleed me dry,1
+Blood Puppy,5.100.565,1.0,"Spawns a familiar that chases enemies. After killing enough enemies, it becomes more powerful but will also try to hurt Isaac. Attacking it returns it to normal.",What a cute little thing!,1
+Guppy's Eye,5.100.665,1.0,"Shows the contents of   Chests,   Fire Places,   Grab Bags, and   Shopkeepers before they're opened/destroyed.",An eye for secrets,2
+Sanguine Bond,5.100.692,1.0,Spawns a special set of spikes in the  Devil Room. Taking damage from the spikes has a chance to grant a reward.,He awaits your offering,1
+Vengeful Spirit,5.100.702,1.0,"After taking damage, spawns an orbital wisp that lasts for the entire floor, up to a maximum of six. They fire tears but do not block shots.",Hot blooded,1
+False PHD,5.100.654,0.5,Converts good pills into bad pills and identifies all pills. Bad pills now have secondary positive effects. Grants one   Black Heart.,Worse pills + evil up,2
+Heartbreak,5.100.694,0.5,Grants 3 broken hearts and +0.25 damage for every broken heart Isaac has. Every otherwise fatal hit will add 2 more until Isaac has nothing but broken hearts.,Eternal sorrow,3
+Vanishing Twin,5.100.697,0.5,Spawns a familiar that becomes a clone of the floor's boss when entering the  Boss Room. Defeating it drops an extra item.,He wants revenge,2

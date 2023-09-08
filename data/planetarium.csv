@@ -1,12 +1,12 @@
-Name,ID,Weight,Description
-Jupiter,5.100.594,1,"+2 red Heart containers, -0.3 speed. Isaac builds speed while standing still, and releases poison gas clouds when he moves afterwards."
-Luna,5.100.589,1,Adds an extra  Secret Room and  Super Secret Room to each floor. Secret Rooms contain a beam of light that increases Fire Rate for the current floor and gives a   Half Soul Heart.
-Mars,5.100.593,1,"Dash by double-tapping the movement key, becoming invulnerable and damaging enemies. There's a short cooldown before Isaac can dash again."
-Mercurius,5.100.590,1,"+0.4 speed. Doors stay open after entering a room, even in rooms with enemies."
-Neptunus,5.100.597,1,"Isaac's mouth fills with tears over time while not firing, up to a cap. Holding the fire button will release all stored tears in rapid succession."
-Pluto,5.100.598,1,"+0.7 tears. Significantly shrinks Isaac, allowing him to squeeze between objects and makes some enemy shots pass over him."
-Saturnus,5.100.595,1,"Upon entering a room, a circle of tears orbits Isaac. Enemy tears have a chance to be caught in orbit, turning them friendly."
-Sol,5.100.588,1,"Reveals the location of the  Boss Room. Upon defeating a boss, activates  XIX - The Sun, fully recharges Isaac's active item, grants bonus damage and luck for the rest of the floor, and removes curses."
-Terra,5.100.592,1,"+1 Damage. Replaces tears with rocks that deal variable damage, have increased knockback, and can destroy obstacles."
-Uranus,5.100.596,1,"Isaac shoots ice tears, which slow enemies and freeze monsters they kill. Frozen enemies slide away and explode into ice shards when touched."
-Venus,5.100.591,1,Adds one red Heart container. Heals 1 additional   Red Heart. Enemies near Isaac become charmed.
+Name,ID,Weight,Description,Quote,Quality
+Jupiter,5.100.594,1,"+2 red Heart containers, -0.3 speed. Isaac builds speed while standing still, and releases poison gas clouds when he moves afterwards.",You're a gas giant!,2
+Luna,5.100.589,1,Adds an extra  Secret Room and  Super Secret Room to each floor. Secret Rooms contain a beam of light that increases Fire Rate for the current floor and gives a   Half Soul Heart.,The moon's blessing shines upon you,2
+Mars,5.100.593,1,"Dash by double-tapping the movement key, becoming invulnerable and damaging enemies. There's a short cooldown before Isaac can dash again.",Double tap dash,2
+Mercurius,5.100.590,1,"+0.4 speed. Doors stay open after entering a room, even in rooms with enemies.",Speed up + you feel elusive,3
+Neptunus,5.100.597,1,"Isaac's mouth fills with tears over time while not firing, up to a cap. Holding the fire button will release all stored tears in rapid succession.",Open the floodgates,3
+Pluto,5.100.598,1,"+0.7 tears. Significantly shrinks Isaac, allowing him to squeeze between objects and makes some enemy shots pass over him.",Size down,3
+Saturnus,5.100.595,1,"Upon entering a room, a circle of tears orbits Isaac. Enemy tears have a chance to be caught in orbit, turning them friendly.",Ring of tears,2
+Sol,5.100.588,1,"Reveals the location of the  Boss Room. Upon defeating a boss, activates  XIX - The Sun, fully recharges Isaac's active item, grants bonus damage and luck for the rest of the floor, and removes curses.",Radiant victory,2
+Terra,5.100.592,1,"+1 Damage. Replaces tears with rocks that deal variable damage, have increased knockback, and can destroy obstacles.",Born to rock,3
+Uranus,5.100.596,1,"Isaac shoots ice tears, which slow enemies and freeze monsters they kill. Frozen enemies slide away and explode into ice shards when touched.",Ice tears,3
+Venus,5.100.591,1,Adds one red Heart container. Heals 1 additional   Red Heart. Enemies near Isaac become charmed.,HP up + you feel pretty,2

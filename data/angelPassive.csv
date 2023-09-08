@@ -1,55 +1,55 @@
-Name,ID,Weight,Description
-The Body,5.100.334,1,Adds 3 Red Heart Containers.
-Celtic Cross,5.100.162,1,"Grants a chance to trigger the  Book of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds."
-Dead Dove,5.100.185,1,Grants spectral tears and flight.
-Godhead,5.100.331,1,"Grants homing tears with a damaging halo. +0.5 Damage, -0.3 Tears -0.3 Shot Speed, +0.8 Tear Falling Speed, and +1.2 Range. Grants homing tears with a damaging halo. +0.5 Damage, -0.3 Tears, and -0.3 Shot Speed."
-Guardian Angel,5.100.112,1,"Spawns an orbital familiar that blocks enemy shots, deals 105 damage per second to enemies, and increases the speed of all orbital familiars. Spawns an orbital familiar that blocks enemy shots, deals 53 damage per second to enemies, and increases the speed of all orbital familiars."
-Habit,5.100.156,1,"When Isaac is hit, his active item gains 1 room's worth of charge."
-The Halo,5.100.101,1,"Grants one full Red Heart container, +0.3 damage, +0.2 tears, +0.25 range, +0.3 speed, and +0.5 tear falling speed. Grants one full Red Heart container, +0.3 damage, +0.2 tears, +1.5 range, and +0.3 speed. Heals 1 additional   Red Heart."
-Holy Grail,5.100.184,1,Grants flight and one Red Heart container.  Heals 1 additional   Red Heart.
-Holy Mantle,5.100.313,1,"Grants a shield that negates the first instance of damage taken, once per room. Does not apply to or negate self-damage ( Blood Donation Machines, etc)."
-Holy Water,5.100.178,1,"Spawns a bottle familiar that breaks when Isaac takes damage, leaving a puddle of blue creep. A bottle familiar that flies forward when Isaac shoots. It breaks upon hitting an enemy, leaving a puddle of blue creep that petrifies enemies."
-Lazarus' Rags,5.100.332,1,"Upon dying, resurrect as   Lazarus Risen in the current room with one Red Heart container and  Anemic. Upon dying, resurrect as   Lazarus Risen in the current room with one less Red Heart container (but no less than 1),  Anemic, and a permanent +0.5 Damage up. Going to the next floor reverts him back into   Lazarus, with his inherent extra life effect."
-The Mind,5.100.333,1,"Reveals the entire map, including all special rooms and  Secret Rooms."
-Mitre,5.100.173,1,Grants a chance of converting any   Red Heart pickups into   Soul Hearts instead.
-The Relic,5.100.98,1,Spawns a cross familiar that drops a   Soul Heart after clearing enough rooms.
-Rosary,5.100.72,1,Grants 3   Soul Hearts. Causes  The Bible to appear in any item pool.  +0.5 tears.
-Sacred Heart,5.100.182,1,"Adds a Red Heart Container. Grants homing tears, a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears, -0.25 Shot Speed, and +4.125 Range. Adds a Red Heart Container. Grants homing tears, a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears, and -0.25 Shot Speed."
-Scapular,5.100.142,1,"Once per room, when Isaac is reduced to his last half heart, he is granted one   Soul Heart."
-The Soul,5.100.335,1,Grants two   Soul Hearts. Isaac gains a pulsing aura that repels enemies and projectiles.
-Trinity Shield,5.100.243,1,Isaac gains a shield that protects him from enemy shots. It aims in the direction Isaac fires from.
-The Wafer,5.100.108,1,Most sources of damage that would cause more than one-half heart of damage are reduced to one-half heart instead.
-Censer,5.100.387,1,Spawns a familiar which creates a circular aura that slows down enemies and enemy shots inside.
-Circle of Protection,5.100.423,1,"Surrounds Isaac with a large white halo that occasionally deals Isaac's tear damage to enemies inside it, and can convert enemy shots into friendly homing tears."
-Crown of Light,5.100.415,1,"+2   Soul Hearts. While Isaac has no empty red hearts, grants 2x damage, increased range, and -0.3 shot speed. Regardless of health, the crown deactivates for the current room when Isaac takes damage."
-Holy Light,5.100.374,1,"Adds a chance to fire holy tears, which will create a damaging light beam in the area if they hit an enemy."
-Immaculate Conception,5.100.413,1,"Upon picking up a certain amount of health, spawn a permanent angelic familiar."
-Seraphim,5.100.390,1,Spawns an angel familiar who follows Isaac and fires homing tears which deal 10 damage and have 75% shot speed.
-Spear of Destiny,5.100.400,1,"In addition to tears, Isaac holds a spear in front of him which deals contact damage equal to 2x his tear damage, and occasionally inflicts fear."
-Sworn Protector,5.100.363,1,"Spawns an orbital familiar which does 105 damage per second and attracts and blocks enemy shots. Upon blocking 10 shots in a room, it drops an   Eternal Heart."
-7 Seals,5.100.526,1,Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts.
-Angelic Prism,5.100.528,1,Spawns an orbital familiar with a large orbital radius. Tears that pass through the prism split into four multi-colored tears.
-Duality,5.100.498,1,"Whenever a  Devil Room or  Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered."
-Eucharist,5.100.499,1,"An  Angel Room door will always spawn after every boss fight, excluding the first floor and floors after  Womb II/ Utero II/ Scarred Womb II."
-Glyph of Balance,5.100.464,1,Grants 2   Soul Hearts and modifies drops from Champion monsters based on certain conditions.  Also modifies room clear drops.
-Lil Delirium,5.100.519,1,Grants a familiar that transforms into another random familiar every 10 seconds.
-Trisagion,5.100.533,1,Tears are replaced with piercing white blasts of light that deal less damage but can damage the same enemy multiple times.
-Act of Contrition,5.100.601,1,Increases tears and grants an   Eternal Heart. Allows  Angel Rooms to appear even if a Devil Deal has been taken before. Reduces the Devil/Angel room chance penalty for taking Red heart damage.
-Blood of the Martyr,5.100.7,1,+1 damage. Isaac shoots blood tears.
-Divine Intervention,5.100.568,1,Double tapping a fire key creates a shield that pushes away enemies and reflects enemy projectiles and lasers.
-Hallowed Ground,5.100.543,1,"Spawns a white poop familiar, which turns into a   White Poop when Isaac is hurt. White poop has an aura that increases tear fire rate and can block enemy shots.  The aura also increases damage by 20% and gives homing."
-Immaculate Heart,5.100.573,1,Adds one Red Heart Container and fully restores health. x1.2 damage multiplier. Isaac will occasionally fire extra tears that orbit around him.
-Jesus Juice,5.100.197,1,"+0.5 damage, +0.25 range, +0.5 tear falling speed. +0.5 damage, +1.5 range."
-Monstrance,5.100.574,1,Isaac gains an aura that deals damage to enemies inside it.
-Paschal Candle,5.100.567,1,Gives Isaac a familiar that grants +0.4 Fire Rate for each consecutive room he's cleared without taking damage. The bonus stacks up to five times.
-Purgatory,5.100.634,1,"While in a room with enemies, spawns cracks on the ground. Walking over these cracks summons ghosts that launch themselves at enemies and explode."
-Purity,5.100.407,1,"Boosts one of Isaac's stats depending on the color of the aura around him. The aura disappears upon taking damage and reappears with a random color upon entering a new room. Red boosts damage, blue boosts tears, yellow boosts speed, and orange boosts range."
-Revelation,5.100.643,1,"Grants flight and two   Soul Hearts. In addition to tears, Isaac can charge up and fire a powerful holy laser."
-Salvation,5.100.696,1,Gives Isaac a halo that summons beams of light on enemies inside it. The halo grows larger the more times Isaac has taken damage this floor.
-Spirit Sword,5.100.579,1,"Instead of tears, Isaac swings a sword. Charging does a spin attack and fires a projectile, and a projectile is sometimes fired with normal swings if Isaac has no empty   Red Heart Containers."
-Star of Bethlehem,5.100.651,1,"Spawns a star familiar that slowly travels towards the  Boss Room, giving an aura that increases damage and tears and grants homing tears."
-Stigmata,5.100.138,1,"+0.3 damage, grants one full Red Heart container.  Heals 1 additional   Red Heart."
-Soul Locket,5.100.686,1,Gives Isaac a permanent stat boost whenever he picks up a   Soul Heart.
-The Stairway,5.100.586,1,Generates a ladder at the start of every floor that leads to a unique  Angel Room shop.
-Book of Virtues,5.100.584,0.5,"On use, spawns a destroyable orbiting wisp familiar that fires tears and deals contact damage. Also acts as a passive item that causes other active items to spawn themed wisps."
-Sacred Orb,5.100.691,0.5,"Prevents items of quality 0-1 from appearing, and items of quality 2 from appearing 33% of the time, greatly increasing the quality of items received from all item pools. Quest items are unaffected."
+Name,ID,Weight,Description,Quote,Quality
+The Body,5.100.334,1,Adds 3 Red Heart Containers.,I feel all,3
+Celtic Cross,5.100.162,1,"Grants a chance to trigger the  Book of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds.",Blessing of protection,1
+Dead Dove,5.100.185,1,Grants spectral tears and flight.,Flight + spectral tears,3
+Godhead,5.100.331,1,"Grants homing tears with a damaging halo. +0.5 Damage, -0.3 Tears -0.3 Shot Speed, +0.8 Tear Falling Speed, and +1.2 Range. Grants homing tears with a damaging halo. +0.5 Damage, -0.3 Tears, and -0.3 Shot Speed.",God tears,4
+Guardian Angel,5.100.112,1,"Spawns an orbital familiar that blocks enemy shots, deals 105 damage per second to enemies, and increases the speed of all orbital familiars. Spawns an orbital familiar that blocks enemy shots, deals 53 damage per second to enemies, and increases the speed of all orbital familiars.",Extra protection,2
+Habit,5.100.156,1,"When Isaac is hit, his active item gains 1 room's worth of charge.",Item martyr,2
+The Halo,5.100.101,1,"Grants one full Red Heart container, +0.3 damage, +0.2 tears, +0.25 range, +0.3 speed, and +0.5 tear falling speed. Grants one full Red Heart container, +0.3 damage, +0.2 tears, +1.5 range, and +0.3 speed. Heals 1 additional   Red Heart.",All stats up,2
+Holy Grail,5.100.184,1,Grants flight and one Red Heart container.  Heals 1 additional   Red Heart.,Flight + HP up,3
+Holy Mantle,5.100.313,1,"Grants a shield that negates the first instance of damage taken, once per room. Does not apply to or negate self-damage ( Blood Donation Machines, etc).",Holy shield,4
+Holy Water,5.100.178,1,"Spawns a bottle familiar that breaks when Isaac takes damage, leaving a puddle of blue creep. A bottle familiar that flies forward when Isaac shoots. It breaks upon hitting an enemy, leaving a puddle of blue creep that petrifies enemies.",Splash!,3
+Lazarus' Rags,5.100.332,1,"Upon dying, resurrect as   Lazarus Risen in the current room with one Red Heart container and  Anemic. Upon dying, resurrect as   Lazarus Risen in the current room with one less Red Heart container (but no less than 1),  Anemic, and a permanent +0.5 Damage up. Going to the next floor reverts him back into   Lazarus, with his inherent extra life effect.",Eternal life?,1
+The Mind,5.100.333,1,"Reveals the entire map, including all special rooms and  Secret Rooms.",I know all,3
+Mitre,5.100.173,1,Grants a chance of converting any   Red Heart pickups into   Soul Hearts instead.,Blessing of purity,3
+The Relic,5.100.98,1,Spawns a cross familiar that drops a   Soul Heart after clearing enough rooms.,Soul generator,3
+Rosary,5.100.72,1,Grants 3   Soul Hearts. Causes  The Bible to appear in any item pool.  +0.5 tears.,Tears + faith up,2
+Sacred Heart,5.100.182,1,"Adds a Red Heart Container. Grants homing tears, a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears, -0.25 Shot Speed, and +4.125 Range. Adds a Red Heart Container. Grants homing tears, a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears, and -0.25 Shot Speed.",Homing shots + DMG up,4
+Scapular,5.100.142,1,"Once per room, when Isaac is reduced to his last half heart, he is granted one   Soul Heart.",Pray for a miracle,2
+The Soul,5.100.335,1,Grants two   Soul Hearts. Isaac gains a pulsing aura that repels enemies and projectiles.,I am all,3
+Trinity Shield,5.100.243,1,Isaac gains a shield that protects him from enemy shots. It aims in the direction Isaac fires from.,You feel guarded,2
+The Wafer,5.100.108,1,Most sources of damage that would cause more than one-half heart of damage are reduced to one-half heart instead.,Damage resistance,4
+Censer,5.100.387,1,Spawns a familiar which creates a circular aura that slows down enemies and enemy shots inside.,Peace be with you,3
+Circle of Protection,5.100.423,1,"Surrounds Isaac with a large white halo that occasionally deals Isaac's tear damage to enemies inside it, and can convert enemy shots into friendly homing tears.",Protect me from myself,2
+Crown of Light,5.100.415,1,"+2   Soul Hearts. While Isaac has no empty red hearts, grants 2x damage, increased range, and -0.3 shot speed. Regardless of health, the crown deactivates for the current room when Isaac takes damage.",The untainted gain power,4
+Holy Light,5.100.374,1,"Adds a chance to fire holy tears, which will create a damaging light beam in the area if they hit an enemy.",Holy death shot,3
+Immaculate Conception,5.100.413,1,"Upon picking up a certain amount of health, spawn a permanent angelic familiar.",Feed them love,1
+Seraphim,5.100.390,1,Spawns an angel familiar who follows Isaac and fires homing tears which deal 10 damage and have 75% shot speed.,Sworn friend,3
+Spear of Destiny,5.100.400,1,"In addition to tears, Isaac holds a spear in front of him which deals contact damage equal to 2x his tear damage, and occasionally inflicts fear.",Your destiny,2
+Sworn Protector,5.100.363,1,"Spawns an orbital familiar which does 105 damage per second and attracts and blocks enemy shots. Upon blocking 10 shots in a room, it drops an   Eternal Heart.",Protective friend,3
+7 Seals,5.100.526,1,Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts.,Lil harbingers!,2
+Angelic Prism,5.100.528,1,Spawns an orbital familiar with a large orbital radius. Tears that pass through the prism split into four multi-colored tears.,Eclipsed by the moon,3
+Duality,5.100.498,1,"Whenever a  Devil Room or  Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered.",You feel very balanced,1
+Eucharist,5.100.499,1,"An  Angel Room door will always spawn after every boss fight, excluding the first floor and floors after  Womb II/ Utero II/ Scarred Womb II.",Peace be with you,3
+Glyph of Balance,5.100.464,1,Grants 2   Soul Hearts and modifies drops from Champion monsters based on certain conditions.  Also modifies room clear drops.,A gift from above,2
+Lil Delirium,5.100.519,1,Grants a familiar that transforms into another random familiar every 10 seconds.,Delirious friend,2
+Trisagion,5.100.533,1,Tears are replaced with piercing white blasts of light that deal less damage but can damage the same enemy multiple times.,Smite thy enemy,3
+Act of Contrition,5.100.601,1,Increases tears and grants an   Eternal Heart. Allows  Angel Rooms to appear even if a Devil Deal has been taken before. Reduces the Devil/Angel room chance penalty for taking Red heart damage.,"Tears up, you feel forgiven",3
+Blood of the Martyr,5.100.7,1,+1 damage. Isaac shoots blood tears.,DMG up,3
+Divine Intervention,5.100.568,1,Double tapping a fire key creates a shield that pushes away enemies and reflects enemy projectiles and lasers.,Double tap shield,2
+Hallowed Ground,5.100.543,1,"Spawns a white poop familiar, which turns into a   White Poop when Isaac is hurt. White poop has an aura that increases tear fire rate and can block enemy shots.  The aura also increases damage by 20% and gives homing.",Portable sanctuary,1
+Immaculate Heart,5.100.573,1,Adds one Red Heart Container and fully restores health. x1.2 damage multiplier. Isaac will occasionally fire extra tears that orbit around him.,Halo of tears,3
+Jesus Juice,5.100.197,1,"+0.5 damage, +0.25 range, +0.5 tear falling speed. +0.5 damage, +1.5 range.",Damage + range up,2
+Monstrance,5.100.574,1,Isaac gains an aura that deals damage to enemies inside it.,Purifying light,2
+Paschal Candle,5.100.567,1,Gives Isaac a familiar that grants +0.4 Fire Rate for each consecutive room he's cleared without taking damage. The bonus stacks up to five times.,Keep the flame burning,3
+Purgatory,5.100.634,1,"While in a room with enemies, spawns cracks on the ground. Walking over these cracks summons ghosts that launch themselves at enemies and explode.",Help from beyond,2
+Purity,5.100.407,1,"Boosts one of Isaac's stats depending on the color of the aura around him. The aura disappears upon taking damage and reappears with a random color upon entering a new room. Red boosts damage, blue boosts tears, yellow boosts speed, and orange boosts range.",Aura stat boost,3
+Revelation,5.100.643,1,"Grants flight and two   Soul Hearts. In addition to tears, Isaac can charge up and fire a powerful holy laser.",Awaken your faith,4
+Salvation,5.100.696,1,Gives Isaac a halo that summons beams of light on enemies inside it. The halo grows larger the more times Isaac has taken damage this floor.,Divine protection,3
+Spirit Sword,5.100.579,1,"Instead of tears, Isaac swings a sword. Charging does a spin attack and fires a projectile, and a projectile is sometimes fired with normal swings if Isaac has no empty   Red Heart Containers.",Divine blade,3
+Star of Bethlehem,5.100.651,1,"Spawns a star familiar that slowly travels towards the  Boss Room, giving an aura that increases damage and tears and grants homing tears.",Follow the light,3
+Stigmata,5.100.138,1,"+0.3 damage, grants one full Red Heart container.  Heals 1 additional   Red Heart.",DMG + HP up,2
+Soul Locket,5.100.686,1,Gives Isaac a permanent stat boost whenever he picks up a   Soul Heart.,Power of faith,1
+The Stairway,5.100.586,1,Generates a ladder at the start of every floor that leads to a unique  Angel Room shop.,May you get what you came for,3
+Book of Virtues,5.100.584,0.5,"On use, spawns a destroyable orbiting wisp familiar that fires tears and deals contact damage. Also acts as a passive item that causes other active items to spawn themed wisps.",Spiritual companionship,3
+Sacred Orb,5.100.691,0.5,"Prevents items of quality 0-1 from appearing, and items of quality 2 from appearing 33% of the time, greatly increasing the quality of items received from all item pools. Quest items are unaffected.",Destined for greatness,4
